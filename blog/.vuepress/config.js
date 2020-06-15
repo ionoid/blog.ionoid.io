@@ -3,6 +3,7 @@ module.exports = {
   base: '/blog.ionoid.io/',
   theme: '@vuepress/theme-blog',
   themeConfig: {
+    smoothScroll: true,
     feed: {
       canonical_base: 'https://blog.ionoid.io'
     },
