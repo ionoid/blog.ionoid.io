@@ -1,4 +1,5 @@
 node_modules
 tags
 tags.lock
-tags.tmp
+tags.temp
+blog/.vuepress/dist
