@@ -3,6 +3,9 @@ module.exports = {
   base: '/blog.ionoid.io/',
   theme: '@vuepress/theme-blog',
   themeConfig: {
+    sitemap: {
+      hostname: 'https://blog.ionoid.io'
+    },
     footer: {
       contact: [
         {
