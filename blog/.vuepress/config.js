@@ -1,5 +1,6 @@
 module.exports = {
   title: 'The Ionoid IoT Blog',
+  base: '/blog.ionoid.io/',
   theme: '@vuepress/theme-blog',
   themeConfig: {
     footer: {
