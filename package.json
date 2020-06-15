@@ -5,6 +5,10 @@
   },
   "devDependencies": {
     "@vuepress/theme-blog": "^2.2.0",
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-feed": "^0.1.8"
+  },
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
