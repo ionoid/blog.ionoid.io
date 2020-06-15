@@ -9,6 +9,10 @@ module.exports = {
     sitemap: {
       hostname: 'https://blog.ionoid.io'
     },
+    pwa: {
+      serviceWorker: true,
+      updatePopup: true
+    },
     footer: {
       contact: [
         {
